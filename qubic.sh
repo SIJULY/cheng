@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 直接在这里设置你想要的名字！
-WORKER="sijuly" 
+WORKER="sjune" 
 
 # 既然已经固定了名字，就不再需要 curl 和下面的 if 判断了
 # WORKER=$(curl -s https://api.ipify.org) 
